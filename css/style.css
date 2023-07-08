@@ -1,0 +1,62 @@
+
+#wholeBackground{
+  position: relative;
+  min-height: 100vh;
+
+}
+
+#firstRow a{
+  text-decoration: none;
+  color: white;
+}
+
+
+#toolbar{
+  background-color: #C30139;
+}
+
+
+#firstRow{
+  background-color: #E30047;
+}
+
+
+#cColumn1,#cColumn2, #column1 {
+  background-color: #F7F7F7;
+}
+
+#column2 {
+  background-color: #FFFFFF;
+}
+
+
+.col-sm-6 a{
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.card-body img{
+  width: 30px;
+  border-radius: 50%;
+  padding: 3px;
+  
+}
+
+.card-body a {
+  text-decoration: none;
+  color: black;
+  font-size: 10px;
+}
+
+.card-body button {
+  border-radius: 0%; 
+  font-size: 12px;
+  margin-left: 25px;
+}
+
+footer{
+  background-color: #C30139;
+  position: absolute;
+  bottom: 0;
+}
